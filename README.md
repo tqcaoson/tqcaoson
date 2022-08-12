@@ -62,6 +62,9 @@
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
 </td>
+  <td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> 
+</td>
 </tbody>
 </table>
 
