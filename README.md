@@ -5,7 +5,8 @@
 ## About Me :bridge_at_night:
 - 🌉 **Bridge System Engineer (BrSE)** with 5+ years of experience (development + BrSE roles), bridging Japan ⇄ Vietnam teams
 - 🇯🇵 Japanese: **JLPT N2**, **BJT J2** (Business Japanese) — can communicate directly with Japanese clients
-- ☁️ **AWS Certified Solutions Architect – Associate (SAA)**
+- ☁️ **AWS Certified Associate (SAA, DVA)**
+- ☁️ **Claude Certified**
 - 🛠️ Currently working as BrSE on a welfare-sector (福祉) web system: requirement definition, basic/detail design, AWS infrastructure setup, task management, QA
 
 <hr>
